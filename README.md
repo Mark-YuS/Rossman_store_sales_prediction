@@ -1,1 +1,1 @@
-# Rossman_store_sales_prediction
+# Rossman store_sales prediction
